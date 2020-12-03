@@ -1,1 +1,3 @@
-Open-source upload of my Nintendo 3DS NtrBootHax script made with GodMode9
+<img src=power.png>
+
+Nintendo 3DS KIT, script made with GodMode9
