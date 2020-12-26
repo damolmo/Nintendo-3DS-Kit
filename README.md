@@ -1,20 +1,51 @@
 
-<img src="power.png">
-
+<img src="snap_201125022804.png">
 Nintendo 3DS Kit es un script construido a partir de GodMode9, el explorador avanzado de Nintendo 3DS que se ejecuta a través de un payload por Arm9LoaderHax, SigHax o NtrBootHax. 
 
-Al igual que GodMode9, los requisitos para construir este script son: <br/>
--Python 3.8.5 y Pip3 (ambos en el $PATH y accesibles)<br/>
--FirmTool (Tambien debe estar en el $PATH)<br/>
--devkitARM (es un paquete que forma parte de devkitpro-Pacman, debe estar tambien en el $PATH) <br/>
-export DEVKITARM=/opt/devkitpro/devkitARM<br/>
--arm-none-eabi-gcc, cmake y curl (de los que depende devkitpro y GodMode9)
+<br/>
 
-La mejor forma de compilar el script es usando git, descargar este repositorio con <br/>
-git clone https://github.com/daviiid99/Nintendo-3DS-Kit.git
+# Instalación Nintendo 3DS Kit
 
-Para descargar git, puedes hacerlo con sudo apt-get install git (en Linux)
-<br/> <br/>
+Para ejecutar el script, necesitas una Nintendo 3DS que actualmente esté ejecutando un exploit reciente, ya sea SigHax o NtrBootHax.
 
-Una vez descargado el repositorio y descomprimido su contenido, abre un ventana de terminal en la raíz del directorio y construye el script con <br/>
-make SCRIPT_RUNNER=1 <br/> El script compilado se encontrará en la ruta /output.
+Si cuentas con uno de esos exploits, simplemente debes descargar la última release <b><a href="https://github.com/daviiid99/Nintendo-3DS-Kit/releases">Aquí</a></b>
+
+Descomprime el archivo <b>Nintendo3DSKit-[date]-RELEASE.zip</b> en la raíz de tu SD y se ejecutará automáticamente el <b>boot.firm</b>; si cuentas con SigHax o el <b>ntrboot.firm</b>; si usas NtrBootHax.
+<br/>
+<br/>
+
+# Características Nintendo 3DS Kit
+
+```
+Instalador de SigHax a través de Boot9Strap o fastboot3ds
+```
+```
+Instalador de .CIA/.NDS a través de un explorador de la SD
+```
+```
+Actualizador offline y multi-consolade SigHax y archivos del CFW
+```
+```
+Dumpeador de títulos en cartuchos físiscos de Nintendo DS o Nintendo 3DS
+```
+```
+Actualizador de la NAND a través de herramientas de transferencia o backup
+```
+```
+Modificador de títulos del sistema
+```
+```
+Dumpeador de títulos del sistema
+```
+```
+Lanzador de payloads en formato .firm
+```
+```
+Restaurador de archivos de la NAND virtual
+```
+```
+Limpiador de la Tarjeta SD
+```
+```
+Otras funciones menos relevantes
+```
