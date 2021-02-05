@@ -1,5 +1,5 @@
 
-<img src="https://github.com/daviiid99/Nintendo-3DS-Kit/blob/main/snap_210204132448.png">
+<img src="https://github.com/daviiid99/Nintendo-3DS-Kit/blob/main/Nintendo%203DS%20Kit%203.1.png">
 Nintendo 3DS Kit es un script construido a partir de GodMode9, el explorador avanzado de Nintendo 3DS que se ejecuta a través de un payload por Arm9LoaderHax, SigHax o NtrBootHax. 
 
 <br/>
