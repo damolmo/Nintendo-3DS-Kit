@@ -8,6 +8,7 @@ Nintendo 3DS Kit es un script construido a partir de GodMode9, el explorador ava
 
 | Versión             | Descarga                                   |  
 | ------------------- | -------------------------------------------
+| Nintendo 3DS Kit 3.2-r1     |  <a href="https://github.com/daviiid99/Nintendo-3DS-Kit/releases/tag/20210321">Descargar</a>|
 | Nintendo 3DS Kit 3.1-r2      |  <a href="https://github.com/daviiid99/Nintendo-3DS-Kit/releases/tag/20210225">Descargar</a>|
 | Nintendo 3DS Kit 3.1-r1      |  <a href="https://github.com/daviiid99/Nintendo-3DS-Kit/releases/tag/20210204">Descargar</a>|
 | Nintendo 3DS Kit 3.0-r2       | <a href="https://github.com/daviiid99/Nintendo-3DS-Kit/releases/tag/20201226">Descargar</a>|
